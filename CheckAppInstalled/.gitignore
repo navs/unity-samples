@@ -1,0 +1,12 @@
+/*.apk
+/Library
+/Temp
+/Logs
+
+/.idea
+/UserSettings
+/obj
+/winbuild
+/macbuild
+
+.*.sw[op]
